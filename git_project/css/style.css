@@ -1,7 +1,7 @@
 /********** Template CSS **********/
 :root {
-    --primary: #06A3DA;
-    --secondary: #34AD54;
+    --primary: #37baea;
+    --secondary: #6bca84;
     --light: #EEF9FF;
     --dark: #091E3E;
 }
@@ -87,7 +87,7 @@ h6,
 
 .btn-primary,
 .btn-secondary {
-    color: #FFFFFF;
+    color: #f1eaea;
     box-shadow: inset 0 0 0 50px transparent;
 }
 
